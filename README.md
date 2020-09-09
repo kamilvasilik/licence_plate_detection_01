@@ -12,4 +12,4 @@ Files:
   - lic_plate_library.py
   
 Use:
-  - run, press S to save licence plate, press Q to quit
+  - run lic_plate_detection.py, press S to save licence plate, press Q to quit
